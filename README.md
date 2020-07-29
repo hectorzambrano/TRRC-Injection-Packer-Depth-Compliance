@@ -15,7 +15,7 @@ Output attributes to dataframe.
 
 Use web driver to scrape RRC Online System. Open H-10 Annual Disposal/Injection Well Monitoring Report Query.
 Use UIC numbers from dataframe to search H-10 Records.
-Open most recent submitted H-10.
+Open most recent submitted H-10. Need to check status of H-10 (Processed vs Current).
 Get "17. Depth of Tubing Packer:"
 
 If packer depth is 100' above Top Injection Zone then the well is SWR 9 delinquent (injection/disposal into non-productive zone).
