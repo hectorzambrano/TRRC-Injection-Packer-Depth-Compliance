@@ -1,4 +1,7 @@
 # TRRC-Injection-Packer-Depth-Compliance
+
+*Update 8/4/2020: The Texas RRC discourages the use of the Online Research Query system with automated tools due to server degradation. This project has been paused.
+
 Checks Texas RRC injection/disposal permits for permitted injection zone depths and compares it to the most recent H-10 reported packer depths.
 If packer depth is 100' above Top Injection Zone then the well is considered SWR 9/46 delinquent*. I recommend that the packer depth be verified using other records before evaluating decisions to pull well and move packer.
 
